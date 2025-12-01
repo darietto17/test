@@ -1,62 +1,138 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 24 (backup)
-https://planetary.lovecdn.ru/SkySport24IT/index.fmp4.m3u8?token=adae937dd466802fbf7affefff941197ad16fdf0-51cbfcc9019913f7655b3953cc4a24ff-1764633251-1764622451
-
-#EXTINF:-1 tvg-id="2" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=df8ad6a60eaab807d785985367dec7ec6d9a0c5e-f42c4427fa84c7ee9c4a1aa6a7955ad1-1764633268-1764622468
-
-#EXTINF:-1 tvg-id="3" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=3dab38caa85b15b9bc3c6823451095e05c9b40c9-00da01ef85848ec789e5de8435f6ba5f-1764633274-1764622474
-
-#EXTINF:-1 tvg-id="4" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Mix HD
-https://planetary.lovecdn.ru/SkySportMixIT/index.fmp4.m3u8?token=bf63ca4294aeb0ea17dbf428d53d902070ab8e3c-92ed9e76eed1e4a72a86c119f0fa14f2-1764633288-1764622488
-
-#EXTINF:-1 tvg-id="5" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
-https://planetary.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=380487d7fa79b8a8fc406451a57916d5f525d3d1-d5c9592de01e388e4a487edb58f5cf68-1764633309-1764622509
-
-#EXTINF:-1 tvg-id="6" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Arena (backup)
-https://planetary.lovecdn.ru/SkySportArenaIT/index.fmp4.m3u8?token=34b89e4e1e0e651db9744af82898aeded1702df7-e089b4abebafbf7c06fc6c4713b2178b-1764633323-1764622523
-
-#EXTINF:-1 tvg-id="7" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Dazn 1 HD
-https://planetary.lovecdn.ru/ZonaDAZN/index.fmp4.m3u8?token=f6c4da361393db2a4654beeda59f723f022d6e06-b51fec13d06663e8471170617c79426c-1764633330-1764622530
-
-#EXTINF:-1 tvg-id="8" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport F1 (backup)
-https://planetary.lovecdn.ru/SkySportF1IT/index.fmp4.m3u8?token=62c3a01203c8d2b65ddffda0449542c7aa707160-a577e5b4ea1175a3e1bf4f58be7aeed1-1764633343-1764622543
-
-#EXTINF:-1 tvg-id="9" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Moto Gp HD
-https://planetary.lovecdn.ru/SkySportMotoGPIT/index.fmp4.m3u8?token=1ef779f9af733c89870d9f9c2f3629cc5897524d-7d72d5358ec26bcbdc0147e6af55aa48-1764633349-1764622549
-
-#EXTINF:-1 tvg-id="10" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Tennis (backup)
-https://planetary.lovecdn.ru/SkySportTennisIT/index.fmp4.m3u8?token=e920b6ad774926b23a81e93f40832fdc25a12cee-a31dba9b471db409dcf692ddc1ef9b2b-1764633370-1764622570
-
-#EXTINF:-1 tvg-id="11" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=e2cd2d4226462b1a0d26b6c99074ecaab82c83e3-aae581b2c4a900d485c5d876c86144f7-1764633384-1764622584
-
-#EXTINF:-1 tvg-id="12" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=06d7a5d9153dc3e38902f249fbfc8ac2889f8a0d-d1ce4ada6095572e9dbb379b7009c907-1764633391-1764622591
-
-#EXTINF:-1 tvg-id="13" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Arena (backup)
-https://planetary.lovecdn.ru/SkySportArenaIT/index.fmp4.m3u8?token=0423b5aae5bb53c798d988403d8e5c6ca45bf77b-a5135647141eb7ff277050e2ca52c3f2-1764633411-1764622611
-
-#EXTINF:-1 tvg-id="14" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Dazn 1 HD
-https://planetary.lovecdn.ru/ZonaDAZN/index.fmp4.m3u8?token=10662b282dfad8bfd6d931ed1382aa6198d45497-cc645e2dd820335381ade0946e037f7c-1764633423-1764622623
-
-#EXTINF:-1 tvg-id="15" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=06c1d3d2f1fe2a726d016c92d237cd9767d9aefa-ab3a091b7726db1bc78619e3f54cfe00-1764633559-1764622759
-
-#EXTINF:-1 tvg-id="16" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=f4449874b85517feeafe03ea97d009738ca34ab4-f6c282a116c93cebf3a001c049bb5be8-1764633566-1764622766
-
-#EXTINF:-1 tvg-id="17" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
-https://planetary.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=b65c19e5262d49a84fa6524a11663a5a44043bc7-a6132ce77869de75e99cee8f113b0e0a-1764633586-1764622786
-
-#EXTINF:-1 tvg-id="18" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Dazn 1 HD
-https://planetary.lovecdn.ru/ZonaDAZN/index.fmp4.m3u8?token=6bebae45428e0eda88fc951839723e05de5a0740-a5d619c25ef796ba2ce557d760296665-1764633597-1764622797
-
-#EXTINF:-1 tvg-id="19" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=bfe7974d5fadd2db8d3ba4039759a8e9d77a5c91-6d521b23e8890a3b2781dd49dff44368-1764633629-1764622829
-
-#EXTINF:-1 tvg-id="20" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=fc0f899928e2cd7976d10246f998c312822143a5-4a07079f30e1e59b92821302c2e748e7-1764633652-1764622852
-
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY CINEMA -----" tvg-logo="http://service.fullapple.me:80/images/31d52abda89527246184ec524330e337.png" group-title="Cinema",----- SKY CINEMA -----
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/22760.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno FHD" tvg-logo="http://service.myvisio.life:80/images/8249e7837b2c603ca86f826b621cb763.png" group-title="Cinema",Sky Cinema Uno FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/4496.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="http://service.myvisio.life:80/images/d6e15abbac47edd29a81299ef791494e.png" group-title="Cinema",Sky Cinema Uno HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48863.ts
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno-hd.png" group-title="Sky Italia SD",Sky Cinema Uno SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48947.ts
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus1.it" tvg-name="Sky Cinema Uno +1 FHD" tvg-logo="http://service.myvisio.life:80/images/bbb7a3c21c169a6bc0a6b2bf6736f29a.png" group-title="Cinema",Sky Cinema Uno +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/32108.ts
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus1.it" tvg-name="Sky Cinema Uno +1 HD" tvg-logo="http://service.myvisio.life:80/images/abc30362f77bb480c85fd29c96471896.png" group-title="Cinema",Sky Cinema Uno +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno+1-hd.png" group-title="Sky Italia SD",Sky Cinema Uno +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48948.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 FHD" tvg-logo="http://service.fullapple.me:80/images/6fc402528bde38a87ef7d2a886d57cdd.png" group-title="Cinema",Sky Cinema Uno +24 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/9591.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="http://service.fullapple.me:80/images/6fc402528bde38a87ef7d2a886d57cdd.png" group-title="Cinema",Sky Cinema Uno +24 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/11.ts
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno+24-hd.png" group-title="Sky Italia SD",Sky Cinema Uno +24 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48949.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due FHD" tvg-logo="http://service.myvisio.life:80/images/34a75b839104afefea66f32a1ede63ba.png" group-title="Cinema",Sky Cinema Due FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/9622.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due HD" tvg-logo="http://service.myvisio.life:80/images/5452deb848fc85a2a0479ef1e0502bc1.png" group-title="Cinema",Sky Cinema Due HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/24885.ts
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due-hd.png" group-title="Sky Italia SD",Sky Cinema Due SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 FHD" tvg-logo="http://service.myvisio.life:80/images/34a75b839104afefea66f32a1ede63ba.png" group-title="Cinema",Sky Cinema Due +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 HD" tvg-logo="http://service.fullapple.me:80/images/34a75b839104afefea66f32a1ede63ba.png" group-title="Cinema",Sky Cinema Due +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due-hd.png" group-title="Sky Italia SD",Sky Cinema Due +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48951.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 FHD" tvg-logo="http://service.fullapple.me:80/images/1d20f8248fb6c6298e5cef2da2e2f53e.png" group-title="Cinema",Sky Cinema Due +24 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/29702.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 HD" tvg-logo="http://service.fullapple.me:80/images/13056d320f07ace127aa8fc321c5316f.png" group-title="Cinema",Sky Cinema Due +24 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/72.ts
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due+24-hd.png" group-title="Sky Italia SD",Sky Cinema Due +24 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48952.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection FHD" tvg-logo="http://service.myvisio.life:80/images/ab43fe60d0172c42fea8e0b7b1f24269.png" group-title="Cinema",Sky Cinema Collection FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/9595.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="http://service.myvisio.life:80/images/06812b0391194efa06b65b8db5cf05c1.png" group-title="Cinema",Sky Cinema Collection HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/12.ts
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-collection-hd.png" group-title="Sky Italia SD",Sky Cinema Collection SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 FHD" tvg-logo="http://service.fullapple.me:80/images/ab43fe60d0172c42fea8e0b7b1f24269.png" group-title="Cinema",Sky Cinema Collection +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 HD" tvg-logo="http://service.myvisio.life:80/images/06812b0391194efa06b65b8db5cf05c1.png" group-title="Cinema",Sky Cinema Collection +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-collection-hd.png" group-title="Sky Italia SD",Sky Cinema Collection +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48954.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family FHD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/9584.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family HD" tvg-logo="http://service.myvisio.life:80/images/32aa625a23e731469115cbfe7b607b27.png" group-title="Cinema",Sky Cinema Family HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/13.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-family-hd.png" group-title="Sky Italia SD",Sky Cinema Family SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 FHD" tvg-logo="http://service.fullapple.me:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 HD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-family-hd.png" group-title="Sky Italia SD",Sky Cinema Family +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48956.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense FHD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/9587.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="http://service.myvisio.life:80/images/a873a04d7e25d29994f6603510c3277e.png" group-title="Cinema",Sky Cinema Suspense HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/24886.ts
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-supsense-hd.png" group-title="Sky Italia SD",Sky Cinema Suspense SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 FHD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 HD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-supsense-hd.png" group-title="Sky Italia SD",Sky Cinema Suspense +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48958.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance FHD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/24743.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="http://service.myvisio.life:80/images/b9a2528d08ff5780aa7253f5893d8034.png" group-title="Cinema",Sky Cinema Romance HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/71.ts
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance SD" tvg-logo="http://static.iptv-epg.com/it/SkyCinemaRomance.it.png" group-title="Sky Italia SD",Sky Cinema Romance SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 FHD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 HD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-romance-hd.png" group-title="Sky Italia SD",Sky Cinema Romance +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48960.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama FHD" tvg-logo="http://service.myvisio.life:80/images/0b51fde0914f31605872eb147a2557ee.png" group-title="Cinema",Sky Cinema Drama FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/32107.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="http://service.myvisio.life:80/images/5761d53d73c9bb718f0b9805a184c23c.png" group-title="Cinema",Sky Cinema Drama HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/47.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-drama-hd.png" group-title="Sky Italia SD",Sky Cinema Drama SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 FHD" tvg-logo="http://service.myvisio.life:80/images/0b51fde0914f31605872eb147a2557ee.png" group-title="Cinema",Sky Cinema Drama +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 HD" tvg-logo="http://service.myvisio.life:80/images/5761d53d73c9bb718f0b9805a184c23c.png" group-title="Cinema",Sky Cinema Drama +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-drama-hd.png" group-title="Sky Italia SD",Sky Cinema Drama +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48962.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy FHD" tvg-logo="http://service.myvisio.life:80/images/276fe1a8a76d95533828912560f25dc6.png" group-title="Cinema",Sky Cinema Comedy FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/24744.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://service.myvisio.life:80/images/74a3f9f519021c6066bd3b4e1087cd58.png" group-title="Cinema",Sky Cinema Comedy HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/14.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-comedy-hd.png" group-title="Sky Italia SD",Sky Cinema Comedy SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 FHD" tvg-logo="http://service.fullapple.me:80/images/276fe1a8a76d95533828912560f25dc6.png" group-title="Cinema",Sky Cinema Comedy +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 HD" tvg-logo="http://service.myvisio.life:80/images/74a3f9f519021c6066bd3b4e1087cd58.png" group-title="Cinema",Sky Cinema Comedy +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-comedy-hd.png" group-title="Sky Italia SD",Sky Cinema Comedy +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48964.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action FHD" tvg-logo="http://service.myvisio.life:80/images/76d360ad31c9b9ed90c572e989254e47.png" group-title="Cinema",Sky Cinema Action FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/9596.ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action HD" tvg-logo="http://service.myvisio.life:80/images/1e76c9d23763604ffe04a2eb1db974d8.png" group-title="Cinema",Sky Cinema Action HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/15.ts
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-action-hd.png" group-title="Sky Italia SD",Sky Cinema Action SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 FHD" tvg-logo="http://service.fullapple.me:80/images/5f93fe0f552d4cf82b90d85b2f9bef89.png" group-title="Cinema",Sky Cinema Action +1 FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/32105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 HD" tvg-logo="http://service.myvisio.life:80/images/1e76c9d23763604ffe04a2eb1db974d8.png" group-title="Cinema",Sky Cinema Action +1 HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-action+1-hd.png" group-title="Sky Italia SD",Sky Cinema Action +1 SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48966.ts
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie FHD" tvg-logo="http://service.myvisio.life:80/images/ec016dc30ce56da2607ba59a6a92f180.png" group-title="Cinema",Sky Serie FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/146835.ts
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie HD" tvg-logo="http://service.myvisio.life:80/images/ec016dc30ce56da2607ba59a6a92f180.png" group-title="Cinema",Sky Serie HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/146834.ts
+#EXTINF:-1 tvg-id="SkySerie.it" tvg-name="Sky Series SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyserie.png" group-title="Sky Italia SD",Sky Series SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/146836.ts
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Sky Comedy Central FHD" tvg-logo="http://service.fullapple.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="Cinema",Sky Comedy Central FHD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/226821.ts
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Sky Comedy Central HD" tvg-logo="http://service.fullapple.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="Cinema",Sky Comedy Central HD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Comedy Central SD" tvg-logo="http://bs-update.ddns.net/Android/logos/comedycentral.png" group-title="Sky Italia SD",Sky Comedy Central SD
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/48967.ts
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Tg 24" tvg-logo="http://service.myvisio.life:80/images/c689dbffbeb4398ed2dba7b893bcf7e7.png" group-title="Italia",Sky Tg 24
+http://athena.dyndns.biz:80/live/mgm_p2/HAY6hd98SJJNSK2/112.ts
